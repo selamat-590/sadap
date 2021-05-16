@@ -12,7 +12,7 @@ apt-get install git
 
 Clone / Download this repository from your terminal
 
-git clone https://github.com/verluchie/termux-metasploit
+git clone https://github.com/selamat-590/sadap/tree/main
 
 Get in directory
 
